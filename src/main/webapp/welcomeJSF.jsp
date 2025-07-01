@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Hoy es 28 de Junio de 2025 12:12pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Mensaje para dockerhub Hoy es 30 de Junio de 2025 20:12pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
